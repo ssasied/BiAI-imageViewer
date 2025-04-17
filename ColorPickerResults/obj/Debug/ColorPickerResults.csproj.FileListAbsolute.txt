@@ -1,0 +1,10 @@
+C:\Users\stas\source\repos\ColorPickerResults\ColorPickerResults\bin\Debug\ColorPickerResults.exe.config
+C:\Users\stas\source\repos\ColorPickerResults\ColorPickerResults\bin\Debug\ColorPickerResults.exe
+C:\Users\stas\source\repos\ColorPickerResults\ColorPickerResults\bin\Debug\ColorPickerResults.pdb
+C:\Users\stas\source\repos\ColorPickerResults\ColorPickerResults\obj\Debug\ColorPickerResults.csproj.AssemblyReference.cache
+C:\Users\stas\source\repos\ColorPickerResults\ColorPickerResults\obj\Debug\ColorPickerResults.Form1.resources
+C:\Users\stas\source\repos\ColorPickerResults\ColorPickerResults\obj\Debug\ColorPickerResults.Properties.Resources.resources
+C:\Users\stas\source\repos\ColorPickerResults\ColorPickerResults\obj\Debug\ColorPickerResults.csproj.GenerateResource.cache
+C:\Users\stas\source\repos\ColorPickerResults\ColorPickerResults\obj\Debug\ColorPickerResults.csproj.CoreCompileInputs.cache
+C:\Users\stas\source\repos\ColorPickerResults\ColorPickerResults\obj\Debug\ColorPickerResults.exe
+C:\Users\stas\source\repos\ColorPickerResults\ColorPickerResults\obj\Debug\ColorPickerResults.pdb
